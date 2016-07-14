@@ -1,0 +1,7 @@
+
+LIBRARY      "BranchFolderDiff"
+;DESCRIPTION  'BranchFolderDiff Windows Dynamic Link Library'
+
+EXPORTS
+    DllCanUnloadNow private
+    DllGetClassObject private
